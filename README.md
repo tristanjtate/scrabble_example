@@ -13,7 +13,7 @@ This project calculates the score of words based on Scrabble letter values. It a
 
 ## Code Overview
 
-### Letters and Points
+### Letters and Points!
 
 A list of letters and their corresponding point values are defined:
 
